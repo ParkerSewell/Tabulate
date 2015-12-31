@@ -27,7 +27,7 @@ Split the bill among a max of 4 users.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='<a href="http://imgur.com/DafaoWj"><img src="http://i.imgur.com/DafaoWj.gif" title="source: imgur.com" /></a>'
+http://i.imgur.com/DafaoWj.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
